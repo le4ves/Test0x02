@@ -1,1 +1,1 @@
-call vcvars32.bat" & cl test0x02.c
+call vcvars32.bat & cl test0x02.c
